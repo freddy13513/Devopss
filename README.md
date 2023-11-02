@@ -1,6 +1,6 @@
 # Devops
 
-! [imagen](imagen.img.img)
+! [imagen](imagen.img)
 
 ##Indice
 
