@@ -3,8 +3,8 @@
 
 ##Indice
 1. [Introduccion](intoducion.md)
-2. [Administradores de sistemas]
-3. [Desarroladores]
-4. [Devops]
+2. [Administradores de sistemas](Administradores.md)
+3. [Desarroladores](Desarolladores.md)
+4. [Devops](devops.md)
 
 ##Referencia
