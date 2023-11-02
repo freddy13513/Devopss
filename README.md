@@ -1,6 +1,6 @@
 # Devops
 
-! [imaen](imagen.img.img)
+! [imagen](imagen.img.img)
 ##Indice
 1. [Introduccion](intoducion.md)
 2. [Administradores de sistemas](Administradores.md)
